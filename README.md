@@ -1,4 +1,4 @@
-#1. Installation
+# 1. Installation
 
 All scripts are pure Python, so no compiling is needed. Easiest way is to clone the repository to your own computer. In a desired location, type:
 
@@ -16,7 +16,7 @@ and install the packages with pip:
 
 `pip install -r data/requirements.txt`
 
-#2. Usage examples
+# 2. Usage examples
 
 Help message for each of the scripts can be invoked by calling the script with flag '-h'. For example, assuming installation path is `/path/to/repo/`:
 
