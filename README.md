@@ -6,7 +6,7 @@ All scripts are pure Python, so no compiling is needed. Easiest way is to clone 
 
 The scripts in this repository need specific Python packages to function properly. The easiest way to make sure everything works is to (create a virtual environment) [https://docs.python.org/3/library/venv.html#module-venv] containing the tested versions of each package and then run the scripts in this environment. This is done by first creating a new virtual environment:
 
-`python3 -m p_venv /path/to/new/virtual/environment`
+`python3 -m venv /path/to/new/virtual/environment`
 
 Then one needs to install all the required packages. These are listed in `data/requirements.txt`. So activate the new virtual environment:
 
